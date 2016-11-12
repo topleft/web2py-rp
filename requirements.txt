@@ -1,0 +1,2 @@
+pyDAL==16.9
+virtualenv==15.0.3
