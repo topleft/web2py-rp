@@ -43,6 +43,12 @@ applications/*
 !applications/examples/*
 !applications/admin
 !applications/admin/*
+!applications/hello_world
+!applications/hello_world/*
+!applications/movie_suggest
+!applications/movie_suggest/*
+!applications/Pulse
+!applications/Pulse/*
 applications/*/databases/*
 applications/*/sessions/*
 applications/*/errors/*
